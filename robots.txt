@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://esp046-cyber.github.io/weddingspeechguide/sitemap.xml
